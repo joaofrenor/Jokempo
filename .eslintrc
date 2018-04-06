@@ -1,0 +1,6 @@
+{
+    "extends": "rallycoding",
+    "plugins": [
+        "react"
+    ]
+}
